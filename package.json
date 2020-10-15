@@ -1,0 +1,37 @@
+{
+  "name": "uniswapbot",
+  "version": "1.0.0",
+  "description": "A uniswap bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "jset"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kifen/uniswapbot.git"
+  },
+  "keywords": [
+    "crypto",
+    "DEFI",
+    "bot",
+    "eth"
+  ],
+  "author": "kifen aseme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kifen/uniswapbot/issues"
+  },
+  "homepage": "https://github.com/kifen/uniswapbot#readme",
+  "dependencies": {
+    "@uniswap/v2-core": "^1.0.1",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "dotenv": "^8.2.0",
+    "web3": "^1.3.0",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
