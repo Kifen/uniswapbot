@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "uniswapbot/Factory": [
+      {
+        "address": "0x5C9a69fAf3fCAF67C508c8401Dd937128c257253",
+        "kind": "NonProxy",
+        "bytecodeHash": "83dc239a1b503357412576b3ece145a64048cc0e90e3e94bc3814fa01c154cbc"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
